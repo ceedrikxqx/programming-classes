@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bdbfa51e-362a-415b-a1db-4219e9a951d4" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="36eoGDyo9VqGIUq0SEa5wFciqON" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/USER/Desktop/html/page 2&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\Desktop\html\page 2" />
+      <recent name="C:\Users\USER\Desktop\html\page 2\save\me" />
+      <recent name="C:\Users\USER\Desktop\html\page\style\mate" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\Desktop\html\page\my assignment" />
+      <recent name="C:\Users\USER\Desktop\html" />
+      <recent name="C:\Users\USER\Desktop\html\page\compilation\all\stored" />
+      <recent name="C:\Users\USER\Desktop\html\page\compilation" />
+      <recent name="C:\Users\USER\Desktop\html\inaaya file\by me\shindara" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-c7e53b3be11b-JavaScript-WS-253.28294.332" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bdbfa51e-362a-415b-a1db-4219e9a951d4" name="Changes" comment="" />
+      <created>1765376304972</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1765376304972</updated>
+      <workItem from="1765376309358" duration="702000" />
+      <workItem from="1765378761487" duration="11326000" />
+      <workItem from="1765408287710" duration="5348000" />
+      <workItem from="1765487187401" duration="5301000" />
+      <workItem from="1765539074838" duration="1278000" />
+      <workItem from="1765543447588" duration="7437000" />
+      <workItem from="1765554793417" duration="18571000" />
+      <workItem from="1765622788919" duration="14578000" />
+      <workItem from="1765666177911" duration="3346000" />
+      <workItem from="1765700551126" duration="14724000" />
+      <workItem from="1765747887130" duration="7087000" />
+      <workItem from="1765792391797" duration="1798000" />
+      <workItem from="1765816198314" duration="4384000" />
+      <workItem from="1765838407830" duration="5063000" />
+      <workItem from="1765921445872" duration="9106000" />
+      <workItem from="1765966052008" duration="4179000" />
+      <workItem from="1765979671938" duration="572000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

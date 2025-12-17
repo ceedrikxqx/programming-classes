@@ -1,0 +1,24 @@
+h1{
+    font-size:50px;
+    color:red;
+    text-decoration:underline dashed;
+}
+div{
+    font-size:50px;
+    color:brown;
+}
+span{
+    color:brown;
+    font-size:50px;
+}
+h2{
+    font-size:40px;
+    color:green;
+    text-decoration:underline dotted;
+}
+
+h3 {
+    font-size: 30;
+    color: blue;
+    text-decoration: underline;
+}

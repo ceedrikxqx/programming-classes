@@ -1,0 +1,22 @@
+#header{
+    font-size:20px;
+    color:blue;
+}
+#content h1{
+    font-size:20px;
+    color:green;
+
+
+}
+#content h2{
+    font-size:20px;
+    color:yellow;
+}
+#footer{
+    font-size:20px;
+    color:blue;
+}
+#footer h2{
+    font-size:20px;
+    color:yellow;
+}
