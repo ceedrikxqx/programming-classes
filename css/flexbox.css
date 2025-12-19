@@ -1,0 +1,27 @@
+.box{
+    width: 200px;
+    height: 200px;
+    background: gray;
+    display:flex;
+    justify-content: center;
+    flex-direction: row;
+    gap;100;
+}
+
+.section{
+    flex-direction: row;
+    display:flex;
+    justify-content:center;
+    gap:100px;
+}
+.footer-ul{
+    list-style-type: none;
+}
+.footer-sub-content{
+        width:150px;
+}
+
+.footer-ul li{
+    margin-top:10px;
+    color:blue !important;
+}
