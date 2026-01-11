@@ -1,0 +1,32 @@
+h1{
+    font-family: Verdana;
+    justify-content: center;
+    display: flex;
+}
+
+.sectionale{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap:100px;
+}
+
+.sub-content{
+    display: flex;
+    width:1000px;
+}
+.footer-ol{
+    list-style-type:square;
+}
+
+
+.footer-ol li{
+    margin:10px;
+    color:white !important;
+}
+a{
+    color:black!important;
+}
+a:hover{
+    color:white!important;
+}
