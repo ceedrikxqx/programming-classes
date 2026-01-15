@@ -1,5 +1,5 @@
-let firstname="samad"
-console.log(firstname)
+let firstName="samad"
+console.log(firstName)
 let age=22;
 console.log(age)
 const country="portugal"
@@ -20,7 +20,7 @@ console.log(score)
 console.log(selectedUser)
 
 
-let colors=["red","green","blue","purple","yellow","white"]
+let colors=["red  ","green","blue","purple","yellow","white"]
 console.log(colors[0]);
 console.log(colors[4]);
 console.log(colors[5]);
@@ -34,5 +34,15 @@ let book={
 console.log(book.title);
 console.log(book.pages);
 
-let numbers=[4,2,3,1,2]
-console.log(numbers[3]);
+let numbers =[4,2,3,1,2]
+console.log(numbers[3])
+
+const y=2;
+const x= 3;
+const total=y+x;
+console.log(total);
+
+const c= 7;
+const d= 5;
+let result=c-x;
+console.log(result);

@@ -5,12 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bdbfa51e-362a-415b-a1db-4219e9a951d4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/css/js/content.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js aasignment.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my js.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/class.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/js/content.js" beforeDir="false" afterPath="$PROJECT_DIR$/css/js/content.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/css/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js aasignment.html" beforeDir="false" afterPath="$PROJECT_DIR$/js aasignment.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/sub.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/sub.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my js.html" beforeDir="false" afterPath="$PROJECT_DIR$/my js.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +41,7 @@
   &quot;keyToString&quot;: {
     &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Node.js.main.js.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
@@ -70,6 +73,19 @@
       <recent name="C:\Users\USER\Desktop\html\page\compilation" />
       <recent name="C:\Users\USER\Desktop\html\inaaya file\by me\shindara" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="main.js" working-dir="$PROJECT_DIR$/js.">
+      <EXTENSION ID="com.intellij.javascript.debugger.execution.StartBrowserRunConfigurationExtension">
+        <browser with-js-debugger="true" />
+      </EXTENSION>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.main.js" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -136,7 +152,12 @@
       <workItem from="1767993483717" duration="6986000" />
       <workItem from="1768136789923" duration="3329000" />
       <workItem from="1768172972666" duration="2265000" />
-      <workItem from="1768251242226" duration="12911000" />
+      <workItem from="1768251242226" duration="14302000" />
+      <workItem from="1768309136711" duration="5376000" />
+      <workItem from="1768346376935" duration="3239000" />
+      <workItem from="1768417349604" duration="2995000" />
+      <workItem from="1768421546813" duration="594000" />
+      <workItem from="1768435396063" duration="3489000" />
     </task>
     <servers />
   </component>
