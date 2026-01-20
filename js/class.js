@@ -2,7 +2,7 @@ let variable=3
 
 if (variable>2){
     console.log("positive");
-} else if (variable<1){
+} else if (variable<1 ){
     console.log("negative");
 } else(variable>4);{
     console.log("zero");
@@ -28,7 +28,7 @@ let old=18
 
 
 //switch statement
-let day=5
+let day=3
 
 switch(day){
     case 1:
