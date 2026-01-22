@@ -1,6 +1,6 @@
-for(let i=1; i<=4;i++){
+for(let i=1; i<4;i++){
     for(let j=1 ;j<5;j++){
-        console.log(i,j);
+        console.log("Row",i,"-","Seat",j);
     }
 }
 
@@ -9,8 +9,6 @@ let shoppingList=["1.Bread ",'item bought',"2.milk",'item bought',"3.Eggs",'item
 for (let i=0; i<=shoppingList.length;i++){
     console.log(shoppingList[i]);
 }
-
-
 
  let students = [ { name: "Aisha", age: 13, class: "JSS 1", score: 78 }, { name:
             "John", age: 14, class: "JSS 2", score: 45 }, { name: "Mariam", age: 13, class:
