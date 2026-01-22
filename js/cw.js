@@ -1,29 +1,15 @@
-for(let i=1; i <=30 ; i+=4){
-    console.log(i);
+for(let i=1; i <=30 ; i++){
+    if(i>5){
+        console.log(i)
+    }
 }
 
 
 for (let x=1; x <=20; x++){
-    if(x===3){
-        continue;
-    }if(x===5){
-        continue;
-    }if(x===7){
-        continue;
-    }if(x===9){
-        continue;
-    }if(x===11){
-        continue;
-    }if(x===13){
-        continue;
-    }if(x===15){
-        continue;
-    }if(x===17){
-        continue;
-    }if(x===19){
-        continue;
+    if(x%2==0){
+        console.log(x);
     }
- console.log(x);
+
 }
 
 

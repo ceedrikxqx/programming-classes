@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bdbfa51e-362a-415b-a1db-4219e9a951d4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/js/cw.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/nested-loop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/cwork.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/class.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/class.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/sub.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/sub.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mywebsite.html" beforeDir="false" afterPath="$PROJECT_DIR$/mywebsite.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/the begining.html" beforeDir="false" afterPath="$PROJECT_DIR$/the begining.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/cw.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/cw.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/nested-loop.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/nested-loop.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redbiller.html" beforeDir="false" afterPath="$PROJECT_DIR$/redbiller.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -163,6 +161,12 @@
       <workItem from="1768685918613" duration="1672000" />
       <workItem from="1768766240979" duration="3098000" />
       <workItem from="1768838025886" duration="7598000" />
+      <workItem from="1768927534049" duration="756000" />
+      <workItem from="1768954524602" duration="4456000" />
+      <workItem from="1769005069769" duration="289000" />
+      <workItem from="1769006060054" duration="9485000" />
+      <workItem from="1769028794396" duration="1956000" />
+      <workItem from="1769085721219" duration="3562000" />
     </task>
     <servers />
   </component>

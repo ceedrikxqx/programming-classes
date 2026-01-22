@@ -37,8 +37,8 @@ console.log(fullName)
 
 let name="ceedrik";
 let  age=3;
+console.log(`my name is ${name} and i am ${age} years old`)
 
-console.log('my name is ${name} and i am ${age} years old');
 
 let old=23
 let isAllow=true;
